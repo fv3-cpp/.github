@@ -19,4 +19,4 @@
 - LICENSE //大体のリポジトリはMIT LICENSEです
 ---
 ## 開発環境
-- **Visual Studio Build Tools**を大体使用しています
+- **Visual Studio Build Tools**を大体使用していますが場合によりg++です。
